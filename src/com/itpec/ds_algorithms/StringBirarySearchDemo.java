@@ -1,3 +1,4 @@
+package com.itpec.ds_algorithms;
 
 public class StringBirarySearchDemo {
 

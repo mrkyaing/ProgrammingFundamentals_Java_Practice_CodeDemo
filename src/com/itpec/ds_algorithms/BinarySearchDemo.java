@@ -1,3 +1,4 @@
+package com.itpec.ds_algorithms;
 import java.util.Arrays;
 import java.util.Scanner;
 
